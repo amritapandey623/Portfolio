@@ -95,8 +95,8 @@ function App() {
 
   return (
     <div
-      onMouseMove={(event) => setCursor({ x: event.clientX, y: event.clientY, visible: true })}
-      onMouseLeave={() => setCursor((current) => ({ ...current, visible: false }))}
+      onPointerMove={(event) => setCursor({ x: event.clientX, y: event.clientY, visible: true })}
+      onPointerLeave={() => setCursor((current) => ({ ...current, visible: false }))}
     >
       <span
         className={`cursor-bubble${cursor.visible ? ' is-visible' : ''}`}
