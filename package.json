@@ -6,11 +6,12 @@
   },
   "dependencies": {
     "@vitejs/plugin-react": "latest",
-    "vite": "latest",
-    "typescript": "latest",
+    "lucide-react": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "lucide-react": "latest"
+    "typescript": "latest"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "vite": "^8.0.14"
+  }
 }
