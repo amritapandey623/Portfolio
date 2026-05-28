@@ -13,7 +13,7 @@ const projects = [
     techStack: ['HTML', 'CSS'],
     githubLink: 'https://github.com/amritapandey623/netflix-clone.git',
     image: 'https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=1200&q=80',
-    liveLink: '#',
+    
   },
   {
     title: 'Password Generator',
@@ -21,7 +21,7 @@ const projects = [
     techStack: ['React', 'JavaScript', 'CSS'],
     githubLink: 'https://github.com/amritapandey623/Password-Generator.git',
     image: 'https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=1200&q=80',
-    liveLink: '#',
+    liveLink: 'https://passworgeneratr.netlify.app/',
   },
   {
     title: 'Weather App',
@@ -29,7 +29,7 @@ const projects = [
     techStack: ['Spring Boot', 'Java', 'HTML', 'CSS'],
     githubLink: 'https://github.com/amritapandey623/WeatherApp.git',
     image: 'https://images.unsplash.com/photo-1561484930-998b6a7b22e8?w=1200&q=80',
-    liveLink: '#',
+    
   },
   {
     title: 'Chatbot',
@@ -37,7 +37,7 @@ const projects = [
     techStack: ['Java', 'Spring Boot'],
     githubLink: 'https://github.com/amritapandey623/Chatbot.git',
     image: 'https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=1200&q=80',
-    liveLink: '#',
+    liveLink: 'https://chatbot-chi-roan-67.vercel.app/',
   },
   {
     title: 'Ai Auto-Category And Tag Generator',
@@ -45,7 +45,7 @@ const projects = [
     techStack: ['AI', 'NLP'],
     githubLink: 'https://github.com/amritapandey623/Ai-Auto-Category-And-Tag-Generator.git',
     image: 'https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&q=80',
-    liveLink: '#',
+    
   },
   {
     title: 'Shree Divine Aarti',
@@ -53,17 +53,17 @@ const projects = [
     techStack: ['Java', 'Android'],
     githubLink: 'https://github.com/amritapandey623/Shree.git',
     image: shreeDivineAarti,
-    liveLink: '#',
+    liveLink: 'https://shree-hariii.netlify.app',
   },
 ];
 
 const skills = [
-  ['Java & Spring Boot', 90],
+  ['Java & Spring Boot', 95],
   ['React.js & JavaScript', 86],
-  ['HTML, CSS & Tailwind', 84],
+  ['HTML, CSS & Tailwind', 94],
   ['REST APIs · MySQL · MongoDB', 85],
   ['Data Structures & Algorithms', 87],
-  ['Git & GitHub · VS Code · IntelliJ', 82],
+  ['Git & GitHub · VS Code · IntelliJ', 92],
 ];
 
 const timeline = [
@@ -180,7 +180,7 @@ function Hero() {
           <p className="lead">I build polished, reliable web applications with Spring Boot, React, clean APIs, and the kind of interface details that make software feel considered.</p>
           <div className="hero-actions">
             <a href="#projects" className="primary">View Projects</a>
-            <a href="mailto:amritapandey3210@gmail.com" className="secondary"><Mail size={17} /> Contact Me</a>
+            <a href="#contact" className="secondary"><Mail size={17} /> Contact Me</a>
           </div>
         </div>
         <div className="profile-card glass reveal">
