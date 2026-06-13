@@ -176,7 +176,7 @@ function Hero() {
       <div className="hero-grid">
         <div className="hero-copy reveal">
           <p className="eyebrow"><span />B.Tech CSE · KIPM College of Engineering & Technology</p>
-          <h1><span>Amrita Pandey - Google Student Ambassador 2026</span><br />Full-stack developer · Java & React.</h1>
+          <h1><span>Amrita Pandey - </span><br />Full-stack developer · .</h1>
           <p className="lead">I build polished, reliable web applications with Spring Boot, React, clean APIs, and the kind of interface details that make software feel considered.</p>
           <div className="hero-actions">
             <a href="#projects" className="primary">View Projects</a>
@@ -211,7 +211,7 @@ function About() {
         <div className="glass info-panel">
           <p>Profile highlights</p>
           <div><strong>Role</strong><span>Full-stack developer</span></div>
-          <div><strong>Focus</strong><span>React, Java, Spring Boot</span></div>
+          <div><strong>Focus</strong><span>React, Python ,Java, Spring Boot</span></div>
           <div><strong>College</strong><span>KIPM College Of Engineering and Technology</span></div>
           <div><strong>Email</strong><span>amritapandey3210@gmail.com</span></div>
         </div>
