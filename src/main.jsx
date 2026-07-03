@@ -7,6 +7,16 @@ import shreeDivineAarti from './assets/shree-divine-aarti.jpeg';
 import './styles.css';
 
 const projects = [
+
+   {
+    title: 'Mentis-Mental Health Platform',
+    description: 'Streaming-inspired landing experience built with semantic HTML and CSS - hero layout, rows, gradients, and responsive sections modeled after Netflix.',
+    techStack: ['Python',  'Flask', 'HTML', 'CSS'],
+    githubLink: 'https://github.com/amritapandey623/Mentis-Mental-Health-Bot.git',
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSegfAtTUHZ4vVCHBEO3tBvkCp4M3fSRuCqbtG05O_dgA&s=10',
+    liveLink: 'https://mentis-mental-health-bot-1.onrender.com/',
+    
+  },
   {
     title: 'Netflix Clone',
     description: 'Streaming-inspired landing experience built with semantic HTML and CSS - hero layout, rows, gradients, and responsive sections modeled after Netflix.',
