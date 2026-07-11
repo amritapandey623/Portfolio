@@ -10,11 +10,21 @@ const projects = [
 
    {
     title: 'Mentis-Mental Health Platform',
-    description: 'Streaming-inspired landing experience built with semantic HTML and CSS - hero layout, rows, gradients, and responsive sections modeled after Netflix.',
+    description: 'A platform for providing mental health support and resources by taking user inputs.',
     techStack: ['Python',  'Flask', 'HTML', 'CSS'],
     githubLink: 'https://github.com/amritapandey623/Mentis-Mental-Health-Bot.git',
     image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSegfAtTUHZ4vVCHBEO3tBvkCp4M3fSRuCqbtG05O_dgA&s=10',
     liveLink: 'https://mentis-mental-health-bot-1.onrender.com/',
+    
+  },
+
+    {
+    title: 'AI CATALOG Assistant',
+    description: 'AI-powered catalog assistant for generating product Category , filters and tags based on descriptions and categorizing items.',
+    techStack: ['Spring Boot',  'React', 'PostgreSQL', 'Docker'],
+    githubLink: 'https://github.com/amritapandey623/Ai-Auto-Category-And-Tag-Generator.git',
+    image: 'https://res.cloudinary.com/smartsupp/image/upload/q_auto,f_auto/v1744031437/upload/ss-solution_mira-ai_product-feed_okfq1n.png',
+    liveLink: 'https://ai-auto-category-and-tag-generator.vercel.app/',
     
   },
   {
