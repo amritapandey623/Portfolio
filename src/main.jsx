@@ -88,6 +88,11 @@ const skills = [
 
 const timeline = [
   {
+    period: 'AI Summer Intern 2026 - @Mirai',
+    title: 'AI Summer Intern',
+    body: 'Worked on LLMs Integrations, Image Generation, and Machine Learning Applications. Gained hands-on experience in AI technologies and contributed to innovative projects.',
+  },
+  {
     period: 'Google Student Ambassador Program - 2026',
     title: 'Google Student Ambassador',
     body: 'Selected as a Google Student Ambassador, representing Google at KIPM College of Engineering & Technology. Organized workshops and events to promote Google technologies and foster a vibrant tech community on campus.',
@@ -220,13 +225,13 @@ function Hero() {
 
 function About() {
   return (
-    <section id="about" className="section about">
+    <section id="about" className="section about"> 
       <div className="section-grid">
         <div>
           <p className="section-label">About</p>
           <h2>Code with clarity. Design with intent.</h2>
           <p className="body-text">B.Tech Computer Science & Engineering student at KIPM College Of Engineering and Technology (CGPA 8.5) with strong software engineering and algorithmic skills. Quick learner with foundations in data structures, algorithms, operating systems, and DBMS. Skilled in C/C++, Java, Spring Boot, HTML, CSS, React, MySQL, and MongoDB - passionate about full-stack development with Java.</p>
-          <p className="body-text">Junior Java Developer at Yuva Intern: built scalable Java applications using OOP, improved reliability through debugging and code reviews, and applied clean coding standards for maintainability.</p>
+          <p className="body-text">AI Summer Intern - @Mirai  Going Deep into LLMS Integrations , Image Generations and Machine Learning Applications</p>
         </div>
         <div className="glass info-panel">
           <p>Profile highlights</p>
