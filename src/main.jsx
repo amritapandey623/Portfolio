@@ -88,7 +88,7 @@ const skills = [
 
 const timeline = [
   {
-    period: 'AI Summer Intern 2026 - @Mirai',
+    period: 'AI Summer Intern 2026 - @Mirai School Of Technology',
     title: 'AI Summer Intern',
     body: 'Worked on LLMs Integrations, Image Generation, and Machine Learning Applications. Gained hands-on experience in AI technologies and contributed to innovative projects.',
   },
