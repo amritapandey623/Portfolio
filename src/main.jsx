@@ -9,6 +9,16 @@ import './styles.css';
 const projects = [
 
    {
+    title: 'CareNext - AI Powered Health Platfrom',
+    description: 'A platform for providing  image classification  , poster video analysis , and symptoms based mental health support and resources by taking user inputs.',
+    techStack: ['StreamLit', 'Machnine Learning',  'Flask', 'HTML', 'CSS'],
+    githubLink: 'https://github.com/amritapandey623/CareNext---Health-Screening-Platform.git',
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOUfNg5IY_75HJ6xIQOa3Qc_aY1mPsD5JXSU4aa5dzA_NCGVgXe59ubcc&s=10',
+    liveLink: 'https://care-next-health-screening-platform.streamlit.app/',
+    
+  },
+
+   {
     title: 'Mentis-Mental Health Platform',
     description: 'A platform for providing mental health support and resources by taking user inputs.',
     techStack: ['Python',  'Flask', 'HTML', 'CSS'],
@@ -17,6 +27,7 @@ const projects = [
     liveLink: 'https://mentis-mental-health-bot-1.onrender.com/',
     
   },
+
 
     {
     title: 'AI CATALOG Assistant',
