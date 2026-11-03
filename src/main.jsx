@@ -196,7 +196,7 @@ function Navbar() {
           <a className="nav-pill tooltip" href="https://www.linkedin.com/in/amrita-pandey-3s" target="_blank" rel="noreferrer" data-tip="Open LinkedIn profile">
             LinkedIn
           </a>
-          <a className="resume tooltip" href="https://drive.google.com/file/d/1hWgUsESxeneA-PWOA3yMO1tbhEgCn5MW/view?usp=sharing" target="_blank" rel="noreferrer" data-tip="Download resume">
+          <a className="resume tooltip" href="https://drive.google.com/file/d/1000GfrZQr4IpmhP_4vCebWzQ28kP0YMw/view?usp=sharing" target="_blank" rel="noreferrer" data-tip="Download resume">
             <Download size={16} />
             Resume
           </a>
